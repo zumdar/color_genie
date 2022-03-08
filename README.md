@@ -1,5 +1,5 @@
 # color_genie
-this is a generative art twitter bot
+this is a generative art twitter bot locaed at https://twitter.com/_color_genie_
 <br>
 you need to add your own config.js file to make this work! i think if i uploaded mine you could end up tweeting onto my account. hmm... which might actually be cool for another project!<br><br>
 i love daniel shiffman ! the bot part was all done from his amazing tutorial series: 
